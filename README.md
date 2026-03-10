@@ -143,6 +143,9 @@ Contributions are welcome. Please review the guidelines in `CONTRIBUTING.md` bef
 Somer Walker  
 Enterprise Program Leader | AI Transformation | Operational Excellence
 
+Original creator of the Enterprise Transformation Framework and
+associated methodologies documented in this repository.
+
 Background leading complex infrastructure, cloud, and AI initiatives across global organizations focused on turning strategy into disciplined execution.
 
 LinkedIn  
