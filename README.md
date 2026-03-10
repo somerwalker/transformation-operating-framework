@@ -1,9 +1,20 @@
 # Transformation Operating Framework
+The Transformation Operating Framework provides a structured methodology
+for aligning strategy, governance, and execution across complex
+organizational transformation initiatives.
+
+Author: Somer Walker
+
+Creator of the Transformation Operating Framework, a model for aligning strategy, governance, and program execution in complex organizations.
+
+This repository documents the conceptual architecture of the
+Transformation Operating Framework and links to supporting
+repositories that provide detailed implementation guidance.
 
 ![Enterprise Transformation](https://img.shields.io/badge/Enterprise-Transformation-blue)
 ![Operating Model](https://img.shields.io/badge/Operating-Model-green)
 ![Execution Framework](https://img.shields.io/badge/Execution-Framework-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 A structured operating framework for translating strategy into coordinated execution across organizations.
 
@@ -12,96 +23,143 @@ Large organizations frequently struggle not because they lack strategic ideas, b
 The Transformation Operating Framework introduces a layered model for aligning leadership intent with operational execution.
 
 ---
+## Design Principles
+
+The Transformation Operating Framework is built around several core principles:
+
+• Strategy must be translated into executable initiatives  
+• Governance must clarify decision authority and accountability  
+• Programs must provide visibility into execution progress  
+• Transformation initiatives must align with operating model capabilities  
+• Delivery practices must enable coordination across teams
+
+---
 
 ## Transformation Operating Framework Model
 
 ```mermaid
 flowchart TB
 
+subgraph Strategy
 A[Strategy to Execution]
---> B[Enterprise Operating Model]
---> C[Enterprise Governance Toolkit]
---> D[Technology Transformation Patterns]
---> E[AI Transformation Playbook]
---> F[Program Execution OS]
---> G[Technical Program Management Toolkit]
+end
 
-H[Framework Glossary]
+subgraph Governance
+B[Enterprise Governance Toolkit]
+end
 
-H --- A
-H --- B
-H --- C
-H --- D
-H --- E
-H --- F
-H --- G
+subgraph Transformation
+C[Technology Transformation Patterns]
+D[AI Transformation Playbook]
+end
+
+subgraph Execution
+E[Program Execution OS]
+end
+
+subgraph Delivery
+F[Technical Program Management Toolkit]
+end
+
+A --> B
+B --> C
+C --> E
+E --> F
+
+C --> D
+D --> E
+```
+
+```mermaid
+flowchart LR
+
+subgraph Framework Foundations
+A[Enterprise Operating Model]
+B[Framework Glossary]
+end
+
 ```
 
 Each layer addresses a specific challenge in organizational execution.
 
 ---
 
-## Framework Components
+## Framework Architecture
 
-The Transformation Operating Framework is supported by several repositories that describe the frameworks used at each layer.
+The Transformation Operating Framework organizes enterprise transformation into several complementary layers.
+Each layer is documented in a dedicated repository that expands on the concepts and provides practical implementation guidance.
+
+---
 
 ### Strategy Layer
 
-Defines how organizations translate high-level strategic objectives into coordinated initiatives.
+Defines how organizations translate high-level strategic objectives into coordinated initiatives and execution plans.
 
-Repository:
-
+Repository
 https://github.com/somerwalker/strategy-to-execution
 
 ---
 
 ### Governance Layer
 
-Defines decision structures, leadership alignment, and escalation models required to guide transformation initiatives.
+Defines decision structures, leadership alignment mechanisms, and escalation models required to guide transformation initiatives.
 
-Repository:
-
+Repository
 https://github.com/somerwalker/enterprise-governance-toolkit
 
 ---
 
 ### Transformation Layer
 
-Documents common transformation patterns observed across organizations.
+Documents common transformation patterns observed across organizations modernizing their technology platforms and operating models.
 
-Repository:
-
+Repository
 https://github.com/somerwalker/technology-transformation-patterns
 
 ---
 
 ### Execution Layer
 
-Defines structured approaches for coordinating complex programs.
+Defines structured approaches for coordinating complex programs and aligning cross-functional teams around delivery objectives.
 
-Repository:
-
+Repository
 https://github.com/somerwalker/program-execution-os
 
 ---
 
 ### Delivery Layer
 
-Provides practical artifacts used by technical program managers and delivery teams.
+Provides practical artifacts used by technical program managers and delivery teams to manage initiatives and maintain execution discipline.
 
-Repository:
-
+Repository
 https://github.com/somerwalker/technical-program-management-toolkit
 
 ---
 
 ### AI Transformation
 
-A specialized transformation playbook focused on AI initiatives.
+A specialized transformation playbook focused on organizational adoption of AI capabilities.
 
-Repository:
-
+Repository
 https://github.com/somerwalker/ai-transformation-playbook
+
+---
+
+### Supporting Resources
+
+Terminology and shared definitions used across the framework.
+
+Repository
+https://github.com/somerwalker/framework-glossary
+
+---
+
+### Enterprise Operating Model
+
+Defines the broader organizational structures and operational capabilities that enable sustained transformation.
+
+Repository
+https://github.com/somerwalker/enterprise-operating-model
 
 ---
 
@@ -152,7 +210,11 @@ LinkedIn
 https://www.linkedin.com/in/somerwalker
 
 ---
-© 2026 Somer Walker  
-Enterprise Transformation Framework
+
+Copyright © 2026 Somer Walker
+
+This repository documents the Transformation Operating Framework.
+Commercial use of the methodology or derivative consulting
+frameworks requires written permission from the author.
 
 This framework and its associated documentation are shared for educational and professional reference. Attribution is appreciated when referencing or adapting these materials.
