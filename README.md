@@ -1,5 +1,5 @@
 # Transformation Operating Framework
-The Transformation Operating Framework provides a structured methodology
+The Transformation Operating Framework provides a structured model
 for aligning strategy, governance, and execution across complex
 organizational transformation initiatives.
 
@@ -16,7 +16,8 @@ repositories that provide detailed implementation guidance.
 ![Execution Framework](https://img.shields.io/badge/Execution-Framework-purple)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
-A structured operating framework for translating strategy into coordinated execution across organizations.
+A layered operating framework for translating strategy into
+coordinated execution across complex organizations.
 
 Large organizations frequently struggle not because they lack strategic ideas, but because they lack a framework that connects strategy, governance, transformation initiatives, and delivery execution.
 
@@ -70,17 +71,20 @@ C --> D
 D --> E
 ```
 
+Each layer addresses a specific challenge in organizational execution.
+
 ```mermaid
 flowchart LR
 
 subgraph Framework Foundations
 A[Enterprise Operating Model]
 B[Framework Glossary]
+A --> B
 end
 
 ```
 
-Each layer addresses a specific challenge in organizational execution.
+These foundational elements support the framework across all layers.
 
 ---
 
@@ -190,7 +194,7 @@ This framework is designed for:
 
 ---
 
-## Contributing
+## Contributing Guidelines
 
 Contributions are welcome. Please review the guidelines in `CONTRIBUTING.md` before submitting improvements or examples.
 
