@@ -2,26 +2,30 @@
 
 Thank you for your interest in contributing to this project.
 
-This repository contains conceptual frameworks and documentation related to enterprise operating models and program execution systems.
+This repository contains conceptual frameworks and documentation related to enterprise transformation, operating models, and program execution systems.
+
+The goal of this repository is to provide clear documentation and supporting materials for the Transformation Operating Framework.
 
 ## Contribution Guidelines
 
-Contributions that improve clarity, documentation quality, or examples are welcome.
+Contributions that improve the clarity and usefulness of the documentation are welcome.
 
 Examples include:
-
 - documentation improvements
-- diagrams
-- additional examples
+- diagram improvements
+- additional examples or explanations
 - corrections or clarifications
+- formatting or readability improvements
+
+Contributions should focus on improving documentation rather than modifying the core framework structure.
 
 ## Intellectual Property
 
-By submitting a contribution to this repository, you agree that your contribution may be incorporated into the project and distributed as part of the project documentation.
+By submitting a contribution to this repository, you agree that your contribution may be incorporated into the project documentation.
 
 All core methodology, frameworks, and associated intellectual property remain the property of the project author.
 
-Contributions do not grant rights to reproduce, commercialize, or redistribute the methodology outside the scope of this repository without permission.
+Submission of a contribution does not grant rights to reproduce, commercialize, or redistribute the methodology outside the scope of this repository without permission from the author.
 
 ## How to Contribute
 
