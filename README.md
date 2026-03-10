@@ -1,19 +1,19 @@
-# Transformation Operating System
+# Transformation Operating Framework
 
 ![Enterprise Transformation](https://img.shields.io/badge/Enterprise-Transformation-blue)
 ![Operating Model](https://img.shields.io/badge/Operating-Model-green)
 ![Execution Framework](https://img.shields.io/badge/Execution-Framework-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A structured operating model for translating strategy into coordinated execution across organizations.
+A structured operating framework for translating strategy into coordinated execution across organizations.
 
-Large organizations frequently struggle not because they lack strategic ideas, but because they lack a system that connects strategy, governance, transformation initiatives, and delivery execution.
+Large organizations frequently struggle not because they lack strategic ideas, but because they lack a framework that connects strategy, governance, transformation initiatives, and delivery execution.
 
-The Transformation Operating System introduces a layered model for aligning leadership intent with operational execution.
+The Transformation Operating Framework introduces a layered model for aligning leadership intent with operational execution.
 
 ---
 
-## Transformation Operating System Model
+## Transformation Operating Framework Model
 
 ```mermaid
 flowchart TB
@@ -43,7 +43,7 @@ Each layer addresses a specific challenge in organizational execution.
 
 ## Framework Components
 
-The Transformation Operating System is supported by several repositories that describe the frameworks used at each layer.
+The Transformation Operating Framework is supported by several repositories that describe the frameworks used at each layer.
 
 ### Strategy Layer
 
@@ -117,7 +117,7 @@ Common symptoms include:
 - poor visibility into program progress  
 - difficulty scaling transformation initiatives  
 
-The Transformation Operating System introduces a structured approach for addressing these challenges.
+The Transformation Operating Framework introduces a structured approach for addressing these challenges.
 
 ---
 
@@ -152,9 +152,7 @@ LinkedIn
 https://www.linkedin.com/in/somerwalker
 
 ---
-
-## Copyright
-
-© 2026 Somer Walker
+© 2026 Somer Walker  
+Enterprise Transformation Framework
 
 This framework and its associated documentation are shared for educational and professional reference. Attribution is appreciated when referencing or adapting these materials.
