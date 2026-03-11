@@ -16,7 +16,7 @@ This repository documents the conceptual architecture of the framework and links
 
 ---
 
-# Design Principles
+## Design Principles
 
 The Transformation Operating Framework is built around several core principles:
 
@@ -30,7 +30,7 @@ These principles guide how organizations structure transformation efforts across
 
 ---
 
-# Transformation Operating Framework Model
+## Transformation Operating Framework Model
 
 ```mermaid
 flowchart TB
@@ -87,14 +87,14 @@ These foundational resources provide shared definitions and structural context u
 
 ---
 
-# Framework Architecture
+## Framework Architecture
 
 The Transformation Operating Framework organizes enterprise transformation into several complementary layers.  
 Each layer is documented in a dedicated repository that expands on the concepts and provides practical implementation guidance.
 
 ---
 
-## Strategy Layer
+### Strategy Layer
 
 Defines how organizations translate high-level strategic objectives into coordinated initiatives and execution plans.
 
@@ -103,7 +103,7 @@ https://github.com/somerwalker/strategy-to-execution
 
 ---
 
-## Governance Layer
+### Governance Layer
 
 Defines decision structures, leadership alignment mechanisms, and escalation models required to guide transformation initiatives.
 
@@ -112,7 +112,7 @@ https://github.com/somerwalker/enterprise-governance-toolkit
 
 ---
 
-## Transformation Layer
+### Transformation Layer
 
 Documents recurring transformation patterns observed across organizations modernizing their technology platforms and operating models.
 
@@ -121,7 +121,7 @@ https://github.com/somerwalker/technology-transformation-patterns
 
 ---
 
-## Execution Layer
+### Execution Layer
 
 Defines structured approaches for coordinating complex programs and aligning cross-functional teams around delivery objectives.
 
@@ -130,7 +130,7 @@ https://github.com/somerwalker/program-execution-os
 
 ---
 
-## Delivery Layer
+### Delivery Layer
 
 Provides practical artifacts used by technical program managers and delivery teams to manage initiatives and maintain execution discipline.
 
@@ -139,27 +139,25 @@ https://github.com/somerwalker/technical-program-management-toolkit
 
 ---
 
-## AI Transformation
+### AI Transformation
 
-A specialized transformation playbook focused on organizational adoption of AI capabilities.
+A specialized transformation playbook documenting patterns for organizational adoption of AI capabilities.
 
 Repository  
 https://github.com/somerwalker/ai-transformation-playbook
 
 ---
 
-## Supporting Resources
+### Supporting Resources
 
-### Framework Glossary
+#### Framework Glossary
 
 Terminology and shared definitions used across the framework.
 
 Repository  
 https://github.com/somerwalker/framework-glossary
 
----
-
-### Enterprise Operating Model
+#### Enterprise Operating Model
 
 Defines broader organizational structures and operational capabilities that enable sustained transformation.
 
@@ -168,7 +166,7 @@ https://github.com/somerwalker/enterprise-operating-model
 
 ---
 
-# Why This Framework Exists
+## Why This Framework Exists
 
 Many organizations struggle with execution gaps between strategy and delivery.
 
@@ -184,7 +182,7 @@ The Transformation Operating Framework introduces a structured approach for addr
 
 ---
 
-# Who This Framework Is For
+## Who This Framework Is For
 
 This framework is designed for:
 
@@ -202,7 +200,9 @@ The frameworks and methodologies documented in this repository are original work
 
 This repository provides conceptual documentation, examples, and templates for educational and professional reference.
 
-Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.# Contributing
+Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
+
+## Contributing
 
 Contributions that improve documentation clarity, diagrams, examples, or explanations are welcome.
 
@@ -218,10 +218,8 @@ Background leading complex infrastructure, cloud, and AI initiatives across glob
 LinkedIn  
 https://www.linkedin.com/in/somerwalker
 
-## Contributing
-
-Suggestions, improvements, and additional examples are welcome.  
-Please review `CONTRIBUTING.md` before submitting a pull request.
+Website:
+https://mountaintransformation.com
 
 ## Copyright
 
