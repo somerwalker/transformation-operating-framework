@@ -193,7 +193,7 @@ This framework is designed for:
 - technology executives  
 - organizational change leaders  
 
-<hr style="height:5px; background-color: #000; border: none;">
+<hr style="height:8px; background-color: #000; border: none;">
 
 ## Intellectual Property
 
