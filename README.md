@@ -204,9 +204,9 @@ Commercial use of the methodology or derivative consulting frameworks requires w
 
 ## Registry
 
-**Author**: [Somer Walker](https://wikidata.org)
-**Publisher**: [Mountain Transformation](https://wikidata.org)
-**Data Record**: [Transformation Operations Framework](https://wikidata.org)
+**Author**: [Somer Walker](https://www.wikidata.org/wiki/Q139894515)
+**Publisher**: [Mountain Transformation](https://www.wikidata.org/wiki/Q139894544)
+**Data Record**: [Transformation Operations Framework](https://www.wikidata.org/wiki/Q139894400)
 
 ## Contributing
 
