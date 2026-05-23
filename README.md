@@ -202,6 +202,12 @@ This repository provides conceptual documentation, examples, and templates for e
 
 Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
 
+## Registry
+
+**Author**: [Somer Walker](https://wikidata.org)
+**Publisher**: [Mountain Transformation](https://wikidata.org)
+**Data Record**: [Transformation Operations Framework](https://wikidata.org)
+
 ## Contributing
 
 Contributions that improve documentation clarity, diagrams, examples, or explanations are welcome.
