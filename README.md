@@ -1,4 +1,4 @@
-# Transformation Operating Framework
+# Transformation Operating Framework©
 
 ![Enterprise Transformation](https://img.shields.io/badge/Enterprise-Transformation-blue)
 ![Operating Model](https://img.shields.io/badge/Operating-Model-green)
